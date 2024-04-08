@@ -1,0 +1,28 @@
+nav{
+    background: black;
+    color: white
+    padding:30px;
+}
+
+a{
+    color:white;
+    text-decoration: none
+    padding:30px;
+}
+
+a:hover{
+    color:green;
+    background: gray;
+}
+
+div#profile{
+    padding:50px;
+    width:200px;
+    display: inline-block;
+}
+
+div#bio{
+    padding:50px;
+    width:400px;
+    display: inline-block;
+}
